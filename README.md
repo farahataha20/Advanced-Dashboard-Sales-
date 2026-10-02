@@ -4,9 +4,9 @@ An interactive **Sales Analytics Dashboard built in Microsoft Excel** to monitor
 
 The dashboard follows a modern dark green visual style and is designed to turn sales data into a compact management view with interactive filtering, KPI cards, trend analysis, comparisons, and detailed product/distributor breakdowns.
 
-## Dashboard Preview
+ 
 
-![Sales Dashboard Preview](dashboard_pro_preview3.png)
+ 
 
 ## Project Overview
 
